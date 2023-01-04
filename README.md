@@ -1,11 +1,13 @@
 # Wine Quality Prediction Using Machine Learning
 
-Quality of wine is determined on the basis of features like fixed acidity, volatile acidity, residual sugar, chlorides, sulfur dioxide,	density,	pH, sulphates, alcohol
+Quality of wine is determined on the basis of features like fixed acidity, volatile acidity, chlorides, sulfur dioxide,	density,	pH, sulphates, alcohol etc.
 
-Summary: <br>
-- Data Analytics <br>
-- Binarization of target variable <br>
-- Handling Imbalance Dataser <br>
-- PCA <br>
-- Machine Learning Models <br>
+Dataset obtained from Kaggle.
+
+Summary: 
+- Data Analytics 
+- Binarization of target variable 
+- Handling Imbalance Dataser 
+- PCA 
+- Machine Learning Models 
 - Save Model & Predict New Data
